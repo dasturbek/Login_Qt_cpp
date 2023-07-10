@@ -3,7 +3,7 @@
     <b>Login QT and C++</b>
     <br>
   </h1>
-      <img src="https://github.com/dasturbek/School/blob/master/img.png" width=60% align="center"><br> 
+      <img src="https://github.com/dasturbek/Login_Qt_cpp/blob/master/img.png" width=60% align="center"><br> 
     </a>
     
 </div>
